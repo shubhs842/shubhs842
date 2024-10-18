@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,github,git,anaconda,vsode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,Jyputer,Power-BI,html,css,github,git,anaconda,vsode&perline=3)](https://skillicons.dev)
 
 ![shubhs842 GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhs842&show_icons=true&theme=dark)
 
